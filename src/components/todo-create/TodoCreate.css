@@ -1,0 +1,12 @@
+.todo-form {
+  margin: 2rem;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+div {
+  margin-bottom: 0.5em;
+}
